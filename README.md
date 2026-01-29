@@ -45,3 +45,6 @@ Plugin ini menyediakan beberapa mode *Browse By* di OPAC:
 - index.php?p=browse_topic
 - index.php?p=browse_gmd
 - index.php?p=browse_coll_type
+
+# Screen Shoot
+<img width="1137" height="489" alt="image" src="https://github.com/user-attachments/assets/68fb852b-4ca6-456d-a48e-9a2d846b3347" />
