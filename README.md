@@ -6,7 +6,7 @@ Plugin ini dirancang untuk membantu pengguna OPAC menelusuri koleksi secara ters
 
 ---
 
-## ✨ Fitur
+# Fitur
 
 Plugin ini menyediakan beberapa mode *Browse By* di OPAC:
 
