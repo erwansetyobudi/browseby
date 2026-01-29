@@ -40,8 +40,8 @@ Plugin ini menyediakan beberapa mode *Browse By* di OPAC:
 - Download repository ini, extraxt ke folder plugins. Pastikan folder bernama browseby.
 - Login sebagai super admin SLiMS, aktifikan plugin di Menu Sistem --> Plugin
 - Plugin dapat diakses dengan url :
-  index.php?p=browse_author
-  index.php?p=browse_year
-  index.php?p=browse_topic
-  index.php?p=browse_gmd
-  index.php?p=browse_coll_type
+- index.php?p=browse_author
+- index.php?p=browse_year
+- index.php?p=browse_topic
+- index.php?p=browse_gmd
+- index.php?p=browse_coll_type
